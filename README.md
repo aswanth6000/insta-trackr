@@ -19,7 +19,7 @@ A browser extension that helps you find Instagram users who don't follow you bac
 3. Open Chrome/Edge and navigate to `chrome://extensions/` (or `edge://extensions/`)
 4. Enable "Developer mode" (toggle in the top right)
 5. Click "Load unpacked"
-6. Select the extracted folder (the one containing `manifest.json`)
+6. Select the extracted folder (the one containing `manifest.json`) (Not the zip make sure to unzip)
 
 ### For Developers
 
