@@ -12,7 +12,16 @@ A browser extension that helps you find Instagram users who don't follow you bac
 
 ## Installation
 
-### Development Setup
+### For Normal Users
+
+1. Download the latest release from the [Releases](./releases/) page
+2. Extract the ZIP file to a folder on your computer
+3. Open Chrome/Edge and navigate to `chrome://extensions/` (or `edge://extensions/`)
+4. Enable "Developer mode" (toggle in the top right)
+5. Click "Load unpacked"
+6. Select the extracted folder (the one containing `manifest.json`)
+
+### For Developers
 
 1. Clone the repository:
 
@@ -44,7 +53,7 @@ npm run build
 1. **Log into Instagram**: Make sure you're logged into Instagram in your browser
 2. **Open the extension**: Click the extension icon in your browser toolbar
 3. **Analyze**: Click the "Analyze Followers" button
-4. **View results**: The extension will display a list of users who don't follow you back
+4. **View results**: The extension will automatically open results in a new tab, so you can keep them open while browsing
 
 ## How It Works
 
